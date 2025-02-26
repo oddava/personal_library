@@ -4,7 +4,7 @@
             "title": "Sherlock Holmes",
             "author": "Arthur Conan Doyle",
             "year": 1892,
-            "status": false
+            "status": true
         }
     ]
 }
